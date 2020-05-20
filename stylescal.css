@@ -1,0 +1,56 @@
+body{
+	background-color: 2fc4b2;
+	font-family: verdana;
+	font-size:bold;
+	font-weight:bold;
+}
+h1{
+text-align:center;
+margin-top: 25px;
+color:#fff;
+font-size:bold;
+font-wait:bold;
+	
+}
+
+#bigdiv{
+width:400px;
+height: 400px;
+background-color: 235952;
+margin: 55px auto;
+text-align:center;
+color:#fff;
+border-radius: 10%;
+	
+}
+#container{
+	
+	padding-top:40px;
+}
+#textboxx1{
+
+padding:10px 50px;
+border-radius: 6%;	
+}
+#textboxx2{
+
+padding:10px 50px;
+border-radius: 6%;
+}
+#buttonn{
+width:100px;
+height: 30px;
+border-radius: 6%;
+background-color:75daad;	
+}
+#dropboxx{
+width: 200px;
+height:30px;
+border-radius: 6%;
+	
+}
+
+
+
+
+
